@@ -1,5 +1,5 @@
 # Smart Puck
-A Zigbee smart puck with easily configurable options
+A Zigbee smart puck with easily configurable hardware options
 
 ## Current Plan:
 - microcontroller: esp32-h2 
