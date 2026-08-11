@@ -2,7 +2,7 @@
 A Zigbee smart puck with easily configurable hardware options
 
 ## Current Plan:
-- microcontroller: esp32-h2 
+- microcontroller: ESP32-C6-MINI-1-N4 [https://jlcpcb.com/partdetail/EspressifSystems-ESP32_C6_MINI_1N4/C5736265](https://jlcpcb.com/partdetail/EspressifSystems-ESP32_C6_MINI_1N4/C5736265)
 - battery/power management:
   - battery (2000mAh) [https://core-electronics.com.au/polymer-lithium-ion-battery-2000mah-38459.html](https://core-electronics.com.au/polymer-lithium-ion-battery-2000mah-38459.html)
   - BQ25185 (charger/power path) [https://jlcpcb.com/partdetail/TexasInstruments-BQ25185DLHR/C19725033](https://jlcpcb.com/partdetail/TexasInstruments-BQ25185DLHR/C19725033)
