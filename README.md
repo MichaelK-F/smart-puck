@@ -1,4 +1,4 @@
-# smart-puck
+# Smart Puck
 A Zigbee smart puck with easily configurable options
 
 ## Current Plan:
