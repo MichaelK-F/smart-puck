@@ -10,6 +10,7 @@ A Zigbee sensor puck
   - TPS63900 (buck/boost) [https://jlcpcb.com/partdetail/TexasInstruments-TPS63900DSKR/C1518762](https://jlcpcb.com/partdetail/TexasInstruments-TPS63900DSKR/C1518762)
   - MAX17048G (fuel gauge) [https://jlcpcb.com/partdetail/2777647-MAX17048GT10/C2682616](https://jlcpcb.com/partdetail/2777647-MAX17048GT10/C2682616)
 - led: RS-C1415MBAR [https://jlcpcb.com/partdetail/3079315-RSC1415MBAR/C2874181](https://jlcpcb.com/partdetail/3079315-RSC1415MBAR/C2874181)
+- boot mode button: GT-TZ084B-H015-L1 [https://jlcpcb.com/partdetail/GSwitch-GT_TZ084B_H015L1/C29780122](https://jlcpcb.com/partdetail/GSwitch-GT_TZ084B_H015L1/C29780122)
 - temperature/humidity: SHT45-AD1F-R2 [https://jlcpcb.com/partdetail/Sensirion-SHT45_AD1FR2/C5360602](https://jlcpcb.com/partdetail/Sensirion-SHT45_AD1FR2/C5360602)
 - mmwave: HLK-LD2420 [https://core-electronics.com.au/human-micro-motion-detection-mmwave-sensor.html](https://core-electronics.com.au/human-micro-motion-detection-mmwave-sensor.html)
 - keyboard switches for buttons (cherry mx style)
