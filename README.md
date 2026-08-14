@@ -5,6 +5,7 @@ A Zigbee sensor puck
 - microcontroller: ESP32-C6-MINI-1-N4 [https://jlcpcb.com/partdetail/EspressifSystems-ESP32_C6_MINI_1N4/C5736265](https://jlcpcb.com/partdetail/EspressifSystems-ESP32_C6_MINI_1N4/C5736265)
 - USB-C port: USB-TYPE-C-018 [https://jlcpcb.com/partdetail/DEALON-USB_TYPE_C018/C2927038](https://jlcpcb.com/partdetail/DEALON-USB_TYPE_C018/C2927038)
 - battery/power management:
+  - battery connector: S2B-PH-K-S(LF)(SN) [https://jlcpcb.com/partdetail/JST-S2B_PH_K_S_LF_SN/C173752](https://jlcpcb.com/partdetail/JST-S2B_PH_K_S_LF_SN/C173752)
   - battery (2000mAh) [https://core-electronics.com.au/polymer-lithium-ion-battery-2000mah-38459.html](https://core-electronics.com.au/polymer-lithium-ion-battery-2000mah-38459.html)
   - BQ25185 (charger/power path) [https://jlcpcb.com/partdetail/TexasInstruments-BQ25185DLHR/C19725033](https://jlcpcb.com/partdetail/TexasInstruments-BQ25185DLHR/C19725033)
   - TPS63900 (buck/boost) [https://jlcpcb.com/partdetail/TexasInstruments-TPS63900DSKR/C1518762](https://jlcpcb.com/partdetail/TexasInstruments-TPS63900DSKR/C1518762)
