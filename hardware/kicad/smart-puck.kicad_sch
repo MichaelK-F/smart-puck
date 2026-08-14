@@ -7285,7 +7285,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 247.3452 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -7308,6 +7308,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 246.38 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/60514-CL10A226MQ8NRNC/C59461"
 			(at 246.38 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -7600,7 +7611,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_TechFuse_SL0624"
 			(at 200.66 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -7623,6 +7634,17 @@
 			)
 		)
 		(property "Description" "Inductor"
+			(at 200.66 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/TECHFUSE-SL06242R2M/C22463811"
 			(at 200.66 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -7759,7 +7781,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 181.9148 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -7782,6 +7804,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 182.88 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/20411-CL10A106KP8NNNC/C19702"
 			(at 182.88 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -8388,7 +8421,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 197.1548 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -8411,6 +8444,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 198.12 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663"
 			(at 198.12 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -8571,7 +8615,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 93.98 104.902 90)
 			(hide yes)
 			(show_name no)
@@ -8595,6 +8639,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 93.98 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/26643-0402WGF4701TCE/C25900"
+			(at 93.98 106.68 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8808,7 +8863,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 70.8152 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -8831,6 +8886,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 69.85 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
 			(at 69.85 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -8888,7 +8954,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 48.26 75.692 90)
 			(hide yes)
 			(show_name no)
@@ -8912,6 +8978,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 48.26 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/18102-0805W8F1002T5E/C17414"
+			(at 48.26 77.47 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8970,7 +9047,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 136.398 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -8993,6 +9070,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 134.62 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/18102-0805W8F1002T5E/C17414"
 			(at 134.62 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -9050,7 +9138,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 93.98 105.918 90)
 			(hide yes)
 			(show_name no)
@@ -9074,6 +9162,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 93.98 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/26643-0402WGF4701TCE/C25900"
+			(at 93.98 104.14 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9376,7 +9475,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 134.62 176.022 90)
 			(hide yes)
 			(show_name no)
@@ -9400,6 +9499,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 134.62 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/VO-SCR0402F68R/C3015752"
+			(at 134.62 177.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9663,7 +9773,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 134.62 164.592 90)
 			(hide yes)
 			(show_name no)
@@ -9687,6 +9797,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 134.62 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/25819-0402WGF1000TCE/C25076"
+			(at 134.62 166.37 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9745,7 +9866,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 168.6052 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -9768,6 +9889,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 167.64 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
 			(at 167.64 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -9827,7 +9959,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 161.798 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -9850,6 +9982,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 160.02 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190"
 			(at 160.02 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -10015,7 +10158,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 64.262 160.02 90)
 			(hide yes)
 			(show_name no)
@@ -10038,6 +10181,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 66.04 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905"
 			(at 66.04 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -10073,7 +10227,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "92795fd2-ba15-4446-aefb-e54b00c09ba4")
 		(property "Reference" "SW1"
 			(at 45.72 102.87 0)
@@ -10085,8 +10238,8 @@
 				)
 			)
 		)
-		(property "Value" "SW_MEC_5E"
-			(at 45.72 105.41 0)
+		(property "Value" "GT-TZ084B-H015-L1"
+			(at 47.752 105.918 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10095,7 +10248,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "GT-TZ084B-H015-L1:SW-SMD_4P-L5.2-W5.2-P3.70-LS6.4"
 			(at 45.72 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -10183,7 +10336,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 56.1848 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -10206,6 +10359,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 57.15 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/16531-CL10A105KB8NNNC/C15849"
 			(at 57.15 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -10421,7 +10585,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 69.342 160.02 90)
 			(hide yes)
 			(show_name no)
@@ -10444,6 +10608,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 71.12 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905"
 			(at 71.12 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -10503,7 +10678,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 149.098 48.26 90)
 			(hide yes)
 			(show_name no)
@@ -10526,6 +10701,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 147.32 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/26553-0603WAF1802T5E/C25810"
 			(at 147.32 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -10663,7 +10849,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 234.188 139.7 90)
 			(hide yes)
 			(show_name no)
@@ -10686,6 +10872,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 232.41 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/Walsin_TechCorp-WR04X3652FTL/C170300"
 			(at 232.41 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -11164,7 +11361,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 34.29 109.982 90)
 			(hide yes)
 			(show_name no)
@@ -11188,6 +11385,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 34.29 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/18102-0805W8F1002T5E/C17414"
+			(at 34.29 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11490,7 +11698,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 80.01 23.1648 0)
 			(hide yes)
 			(show_name no)
@@ -11524,6 +11732,17 @@
 			)
 		)
 		(property "Note" "Must be at least 1µF of capacitance after DC bias derating"
+			(at 76.2 24.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/20411-CL10A106KP8NNNC/C19702"
 			(at 76.2 24.13 90)
 			(hide yes)
 			(show_name no)
@@ -11659,7 +11878,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 134.62 186.182 90)
 			(hide yes)
 			(show_name no)
@@ -11683,6 +11902,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 134.62 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB" "https://jlcpcb.com/partdetail/VO-SCR0402F68R/C3015752"
+			(at 134.62 187.96 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11807,7 +12037,7 @@
 				)
 			)
 		)
-		(property "Value" "LED_GKBR"
+		(property "Value" "RS-C1415MBAR"
 			(at 119.38 166.37 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11817,7 +12047,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "RS-C1415MBAR:LED-ARRAY-SMD_4P-L1.6-W1.6-BR-RD-CW"
 			(at 119.38 179.07 0)
 			(hide yes)
 			(show_name no)

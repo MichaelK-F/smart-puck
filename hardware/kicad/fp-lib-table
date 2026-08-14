@@ -2,4 +2,6 @@
 	(version 7)
 	(lib (name "BQ25185") (type "KiCad") (uri "${KIPRJMOD}/libs/BQ25185/footprints.pretty") (options "") (descr ""))
 	(lib (name "MAX17048G") (type "KiCad") (uri "${KIPRJMOD}/libs/MAX17048G/footprints.pretty") (options "") (descr ""))
+	(lib (name "GT-TZ084B-H015-L1") (type "EasyEDA / JLCEDA Pro") (uri "${KIPRJMOD}/libs/GT-TZ084B-H015-L1/GT-TZ084B-H015-L1.elibz") (options "") (descr ""))
+	(lib (name "RS-C1415MBAR") (type "EasyEDA / JLCEDA Pro") (uri "${KIPRJMOD}/libs/RS-C1415MBAR/RS-C1415MBAR.elibz") (options "") (descr ""))
 )
